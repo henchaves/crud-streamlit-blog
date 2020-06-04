@@ -1,2 +1,2 @@
 # crud-streamlit
- A CRUD blog created using Streamlit framework
+ A CRUD blog developed using Streamlit framework
